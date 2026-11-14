@@ -1,3 +1,5 @@
+![Muhammad Mamoon Irfan — Animated Sci-Fi AI/ML Profile Banner](profile-banner.gif)
+
 # Muhammad Mamoon Irfan
 
 **Aspiring AI/ML Engineer | Computer Science Student | Software Developer**
