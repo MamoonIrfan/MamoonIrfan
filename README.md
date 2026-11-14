@@ -1,160 +1,137 @@
-<!--
-  GitHub Profile README
-  Repository: https://github.com/MamoonIrfan/MamoonIrfan
-  Note: LinkedIn and email buttons are intentionally omitted until their public URLs
-  are confirmed. Project descriptions are kept conservative where repository docs
-  describe a planned rather than fully implemented workflow.
--->
+# Muhammad Mamoon Irfan
 
-<div align="center">
+**Aspiring AI/ML Engineer | Computer Science Student | Software Developer**
 
-# Hi, I'm Muhammad Mamoon Irfan 👋
+I am a Computer Science student at the **University of Management and Technology (UMT), Lahore, Pakistan**, with an expected graduation in **2027**. My interests lie in **Artificial Intelligence, Machine Learning, Computer Vision, and building practical software products**.
 
-### AI/ML Enthusiast · Computer Science Student · Software Developer
+[![GitHub](https://img.shields.io/badge/GitHub-MamoonIrfan-181717?style=for-the-badge&logo=github)](https://github.com/MamoonIrfan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-mamoon-irfan-0632b5271/)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/MamoonIrfan?tab=repositories)
 
-I enjoy building practical software, exploring intelligent systems, and turning technical concepts into working projects.
-
-<p>
-  <a href="https://github.com/MamoonIrfan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/MamoonIrfan?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github" alt="Explore projects"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Working+with+Python+and+Backend+APIs;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Building+Machine+Learning+Solutions;Interested+in+Computer+Vision;Learning+by+Building+Real+Projects)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BS Computer Science student at **University of Management and Technology (UMT)**, with expected graduation in 2027.
-- 🤖 Especially interested in **Artificial Intelligence, Machine Learning, and Computer Vision**.
-- 🧩 Interested in software engineering, developer tools, and backend systems.
-- 🌱 Continuously learning through coursework, projects, and hands-on development.
+- 🎓 **BS Computer Science** — University of Management and Technology (UMT), 2023–2027.
+- 📊 **CGPA:** 3.78/4.00 through the 6th semester, as listed on my LinkedIn profile.
+- 🤖 Aspiring **AI/ML Engineer**, particularly interested in Machine Learning and Computer Vision.
+- 🧪 Exploring model development, data analysis, feature engineering, and practical AI applications.
+- 🛠️ Building software with Python, C++, APIs, and modern development tools.
+- 🤝 Interested in collaborative projects, continuous learning, and solving real-world problems.
 
----
+## 💼 Experience & Professional Learning
 
-## 🧰 Technologies
+| Organization | Experience |
+|---|---|
+| **NETSOL Technologies Pakistan** | AI/ML Trainee — NIAI / NAVTTC Cohort II |
+| **Beyond East** | Data Analytics Intern |
+| **Abstron \| XR \| Games** | Software Quality Assurance experience |
 
-<div align="center">
+## 🏆 Achievements
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,tensorflow,opencv,fastapi,django,docker,git,github,vscode" alt="Technologies and tools"/>
+- **Dean’s Merit Award** — 3.95/4.00 semester GPA, University of Management and Technology.
+- **Rector’s Merit Award** — 4.00/4.00 semester GPA, University of Management and Technology.
+- **Peer Tutor** — Supported Computer Networks students at UMT; recognized with the Peer Tutor Special Appreciation Award 2025–26.
 
-</div>
+## 🧰 Technical Skills
+
+### Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### AI, Machine Learning & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Backend, Web & Developer Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 1. DERIVA Compiler Studio
 
-### 🧩 DERIVA Compiler Studio
+An interactive, browser-based environment for exploring automata theory and compiler construction. It provides automata construction and minimization workflows alongside a multi-stage compiler for the custom Deriva language.
 
-An interactive, browser-based environment for exploring automata theory and compiler construction.
+**Technologies:** React · TypeScript · Vite · Tailwind CSS
 
-- Automata construction and visualization
-- Multi-stage compiler pipeline
-- React and TypeScript
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/deriva-compiler-studio)
+[![Live App](https://img.shields.io/badge/Live_Application-Visit-2EA44F?style=flat-square&logo=googlechrome&logoColor=white)](https://novacompiler-studio.ai.studio)
 
-[**View repository →**](https://github.com/MamoonIrfan/deriva-compiler-studio) · [**Open live application →**](https://novacompiler-studio.ai.studio)
+### 2. Fabric Defect Detection Using Machine Learning
 
-    </td>
-    <td width="50%" valign="top">
+A machine-learning project focused on automated textile quality inspection using computer vision and feature engineering for multi-class fabric defect detection.
 
-### 🧵 Fabric Defect Detection
+**Focus:** Computer Vision · Feature Engineering · Classical Machine Learning
 
-A machine-learning project for automated textile defect inspection.
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/Fabric-Defect-Detection-Using-Machine-Learning)
 
-- Computer vision and feature engineering
-- Classical machine-learning experiments
-- Multi-class defect detection
+### 3. 3D Human Anatomy Explorer
 
-[**View repository →**](https://github.com/MamoonIrfan/Fabric-Defect-Detection-Using-Machine-Learning)
+An interactive 3D anatomy exploration project.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/3d-human-anatomy-explorer)
 
-### 🧬 3D Human Anatomy Explorer
+### 4. Signature Detection & Similarity System
 
-A project focused on interactive exploration of human anatomy in 3D.
+A collaborative project exploring signature-region detection and signature comparison. Its documentation outlines a target architecture using React, FastAPI, asynchronous processing, and machine-learning components. The repository README distinguishes planned workflows from verified implementation.
 
-[**View repository →**](https://github.com/MamoonIrfan/3d-human-anatomy-explorer)
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/signature-detector-group2)
 
-    </td>
-    <td width="50%" valign="top">
+### 5. Hotel Management System — Data Structures & Algorithms
 
-### ✍️ Signature Detection & Similarity
+A C++ hotel management project demonstrating the practical use of linked lists, queues, priority queues, and stacks for room management and booking workflows.
 
-A collaborative project exploring signature-region detection and signature similarity workflows.
+**Technologies:** C++ · OOP · Linked Lists · Queues · Priority Queues · Stacks
 
-[**View repository →**](https://github.com/MamoonIrfan/signature-detector-group2)
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/Hotel-Management-System-DSA)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏨 Hotel Management System
-
-A C++ Data Structures and Algorithms project.
-
-- Linked lists for hotel structure
-- Queues and priority queues for bookings
-- Stacks for booking history
-
-[**View repository →**](https://github.com/MamoonIrfan/Hotel-Management-System-DSA)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📚 C++ & Python Data Science Notes
+### 6. C++ & Python Data Science Notes
 
 A learning repository for programming and data-science concepts.
 
-[**View repository →**](https://github.com/MamoonIrfan/CPlusPlus_Python_DataScience_Notes)
-
-    </td>
-  </tr>
-</table>
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/MamoonIrfan/CPlusPlus_Python_DataScience_Notes)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MamoonIrfan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MamoonIrfan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamoonIrfan&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamoonIrfan&layout=compact&hide_border=true&theme=tokyonight)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=MamoonIrfan&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=MamoonIrfan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MamoonIrfan&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on meaningful projects and connecting with people working in AI, machine learning, and software development.
+I am interested in connecting with developers, learning from the community, and collaborating on meaningful projects in AI, Machine Learning, Computer Vision, and software development.
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Mamoon_Irfan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-mamoon-irfan-0632b5271/)
+[![GitHub](https://img.shields.io/badge/GitHub-MamoonIrfan-181717?style=for-the-badge&logo=github)](https://github.com/MamoonIrfan)
 
-<a href="https://github.com/MamoonIrfan">GitHub Profile</a> ·
-<a href="https://github.com/MamoonIrfan?tab=repositories">All Repositories</a>
+---
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MamoonIrfan&style=flat-square&color=blue" alt="Profile views"/>
-
-**Thanks for visiting! ⭐**
-
-</div>
+**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
