@@ -115,11 +115,19 @@ A learning repository for programming and data-science concepts.
 
 ## 📊 GitHub Analytics
 
+### GitHub Statistics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MamoonIrfan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
+
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamoonIrfan&layout=compact&hide_border=true&theme=tokyonight)
 
+### Contribution Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MamoonIrfan&theme=tokyonight&hide_border=true)
+
+### Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MamoonIrfan&theme=tokyo-night&hide_border=true)
 
